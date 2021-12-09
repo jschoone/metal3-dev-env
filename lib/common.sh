@@ -248,7 +248,7 @@ else
 fi
 
 # Ansible version
-export ANSIBLE_VERSION=${ANSIBLE_VERSION:-"4.9.0"}
+export ANSIBLE_VERSION=${ANSIBLE_VERSION:-"5.0.1"}
 
 # Test and verification related variables
 SKIP_RETRIES="${SKIP_RETRIES:-false}"
